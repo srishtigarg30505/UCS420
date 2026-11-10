@@ -1,0 +1,146 @@
+{
+  "raw_text": "CLINICALLY PROVEN HelPs _ MAnaGe BLOOD\" SuGAR\" Sl CLINICALLY PrOVEN BLOOD Ensure CARE DIABETES",
+  "strengths": [],
+  "expiry_dates": [],
+  "batch_or_ndc": [],
+  "detections": [
+    {
+      "detection": 1,
+      "class": "medi_info",
+      "detection_confidence": 0.451170414686203,
+      "box_xyxy": [
+        77,
+        341,
+        328,
+        415
+      ],
+      "ocr_lines": [],
+      "text": "",
+      "crop": "/content/medicine_label_outputs/medi_info_crop_01.jpg"
+    },
+    {
+      "detection": 2,
+      "class": "medi_info",
+      "detection_confidence": 0.39595362544059753,
+      "box_xyxy": [
+        127,
+        315,
+        329,
+        415
+      ],
+      "ocr_lines": [],
+      "text": "",
+      "crop": "/content/medicine_label_outputs/medi_info_crop_02.jpg"
+    },
+    {
+      "detection": 3,
+      "class": "medi_info",
+      "detection_confidence": 0.38232630491256714,
+      "box_xyxy": [
+        78,
+        354,
+        254,
+        415
+      ],
+      "ocr_lines": [],
+      "text": "",
+      "crop": "/content/medicine_label_outputs/medi_info_crop_03.jpg"
+    },
+    {
+      "detection": 4,
+      "class": "medi_info",
+      "detection_confidence": 0.3331248462200165,
+      "box_xyxy": [
+        374,
+        313,
+        446,
+        391
+      ],
+      "ocr_lines": [],
+      "text": "",
+      "crop": "/content/medicine_label_outputs/medi_info_crop_04.jpg"
+    },
+    {
+      "detection": 5,
+      "class": "medi_info",
+      "detection_confidence": 0.2585582733154297,
+      "box_xyxy": [
+        277,
+        19,
+        410,
+        145
+      ],
+      "ocr_lines": [
+        {
+          "text": "CLINICALLY",
+          "confidence": 0.999903869232102
+        },
+        {
+          "text": "PROVEN",
+          "confidence": 0.9999448599601761
+        },
+        {
+          "text": "HelPs _",
+          "confidence": 0.5153514572470507
+        },
+        {
+          "text": "MAnaGe",
+          "confidence": 0.27124069559728065
+        },
+        {
+          "text": "BLOOD\"",
+          "confidence": 0.49694125128425504
+        },
+        {
+          "text": "SuGAR\"",
+          "confidence": 0.31306718574766385
+        }
+      ],
+      "text": "CLINICALLY PROVEN HelPs _ MAnaGe BLOOD\" SuGAR\"",
+      "crop": "/content/medicine_label_outputs/medi_info_crop_05.jpg"
+    },
+    {
+      "detection": 6,
+      "class": "medi_info",
+      "detection_confidence": 0.25565600395202637,
+      "box_xyxy": [
+        77,
+        110,
+        357,
+        415
+      ],
+      "ocr_lines": [
+        {
+          "text": "Sl",
+          "confidence": 0.283931222240978
+        },
+        {
+          "text": "CLINICALLY",
+          "confidence": 0.6058498355299525
+        },
+        {
+          "text": "PrOVEN",
+          "confidence": 0.3204137584444994
+        },
+        {
+          "text": "BLOOD",
+          "confidence": 0.8323980853999517
+        },
+        {
+          "text": "Ensure",
+          "confidence": 0.999682825929335
+        },
+        {
+          "text": "CARE",
+          "confidence": 0.6873326617437928
+        },
+        {
+          "text": "DIABETES",
+          "confidence": 0.6328057994621438
+        }
+      ],
+      "text": "Sl CLINICALLY PrOVEN BLOOD Ensure CARE DIABETES",
+      "crop": "/content/medicine_label_outputs/medi_info_crop_06.jpg"
+    }
+  ]
+}
